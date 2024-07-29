@@ -1,4 +1,4 @@
-package sectionClass;
+package section1;
 
 public class NewYearAge {
     public static void main(String[] args) {

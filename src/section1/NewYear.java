@@ -1,4 +1,4 @@
-package sectionClass;
+package section1;
 
 public class NewYear {
     // 클래스 변수 (static 변수)

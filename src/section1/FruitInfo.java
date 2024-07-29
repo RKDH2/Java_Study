@@ -1,4 +1,4 @@
-package sectionClass;
+package section1;
 
 public class FruitInfo {
     public static void main(String[] args) {

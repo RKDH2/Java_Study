@@ -1,4 +1,4 @@
-package sectionClass;
+package section1;
 
 public class Fruit {
     // 멤버 변수 (인스턴트 변수)
