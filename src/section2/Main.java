@@ -14,5 +14,11 @@ public class Main {
         Smart smart = new Smart(2025);
         // 오버라이딩이 되지 않은 상태인 메서드
         smart.newInfo();
+
+        // 다형성
+        Smart smart2 = new Phone("RKDH22", 512, 2025);
+        smart2.info(); // Smart 클래스의 메서드 호출
+        smart2.newInfo(); // Phone 클래스에서 오버라이딩된 메서드 호출
+        // smart2.releaseDate(); // 오류 발생 Smart 타입의 변수로는 Phone 클래스에서 정의된 메서드를 호출할 수 없음
     }
 }
