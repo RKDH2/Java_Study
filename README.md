@@ -3,3 +3,4 @@
 * section2 : 상속 (Inheritance), 오버라이딩 (Overriding), 다형성
 * section3 : 열거형 (enum)
 * section4 : 추상 클래스와 추상 메서드
+* section5 : 인터페이스 구현, 다중 상속
