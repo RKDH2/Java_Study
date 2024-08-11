@@ -1,4 +1,4 @@
-package section_10;
+package section__10;
 
 class Finally {
     int value;
