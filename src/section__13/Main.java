@@ -1,7 +1,5 @@
 package section__13;
 
-import java.awt.*;
-
 // 스레드 클래스 상속
 class ThreadExample extends Thread {
     // run() 메서드 구현
