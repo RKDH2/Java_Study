@@ -17,7 +17,7 @@ public class Smart {
     // 생성자 추가
     Smart(int year){
         this.year = year;
-    };
+    }
 
     // 메소드
     void info() {
